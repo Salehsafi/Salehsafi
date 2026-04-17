@@ -12,13 +12,19 @@ I’m also passionate about web development and AI-related work. I enjoy buildin
 - WordPress and Squarespace websites with a focus on usability, responsiveness, and performance
 - AI training workflows focused on coding prompts, code quality, debugging, and response evaluation
 
-## Recent work
-I worked on AI training tasks involving code generation and debugging using Python, where I helped evaluate outputs, improve technical quality, and reduce repeated coding errors.
+## Featured Projects
 
-I also contributed to improving the Bukrah Foundation website, helping shape a more polished, practical, and responsive web experience.
+### Multiplayer Gamified Learning Environment in Unity
+My senior thesis focused on designing a multiplayer educational game in Unity using procedural content generation, quiz-based progression, and synchronized real-time interaction to create a more engaging learning experience.
 
-## Thesis project
-My senior thesis explored the design of a multiplayer gamified learning environment in Unity using procedural content generation. The project focused on making learning more interactive through multiplayer systems, quiz-based progression, and dynamic environments.
+### DataFest Healthcare Analytics Project
+As part of the latest DataFest competition, I worked with a team to analyze a large real-world hospital dataset provided in raw form. Using Python and RStudio, we cleaned, explored, and interpreted the data to uncover meaningful patterns and actionable insights. The project focused on transforming raw healthcare data into information that could support better decision-making and help address practical, real-world challenges.
+
+### AI Coding Evaluation Work
+I worked on AI training tasks related to coding workflows, focusing on prompt-based code generation, debugging accuracy, code quality, and reducing repeated implementation mistakes.
+
+### Bukrah Foundation Website
+Built the Bukrah Foundation website from scratch on Squarespace after the previous site was fully removed. I transformed it into a more polished, responsive, and user-friendly experience with stronger structure, clearer presentation, and improved usability.
 
 ## Tech Stack
 React · TypeScript · Java · C++ · JavaScript · Python · HTML · CSS · Bootstrap · Tailwind CSS · Flask · jQuery · WordPress · Figma · R · RStudio · ArcGIS StoryMaps 
