@@ -21,7 +21,10 @@ I also contributed to improving the Bukrah Foundation website, helping shape a m
 My senior thesis explored the design of a multiplayer gamified learning environment in Unity using procedural content generation. The project focused on making learning more interactive through multiplayer systems, quiz-based progression, and dynamic environments.
 
 ## Tech Stack
-Python · RStudio · React · JavaScript · HTML · CSS · Bootstrap · Tailwind CSS · WordPress · Squarespace · Java · C++ · Flask · Figma
+React · TypeScript · Java · C++ · JavaScript · Python · HTML · CSS · Bootstrap · Tailwind CSS · Flask · jQuery · WordPress · Figma · R · RStudio · ArcGIS StoryMaps 
+
+## Professional Skills
+Leadership · Team Collaboration · Remote Team Collaboration · Problem Solving · Project Management · Agile Methodologies · Intercultural Competence · Creative Writing
 
 ## Interests
 Data Science · AI · Frontend Development · Practical Systems · Real-World Problem Solving
