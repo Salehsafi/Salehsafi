@@ -27,7 +27,7 @@ I worked on AI training tasks related to coding workflows, focusing on prompt-ba
 Built the Bukrah Foundation website from scratch on Squarespace after the previous site was fully removed. I transformed it into a more polished, responsive, and user-friendly experience with stronger structure, clearer presentation, and improved usability.
 
 ## Tech Stack
-React · TypeScript · Java · C++ · JavaScript · Python · HTML · CSS · Bootstrap · Tailwind CSS · Flask · jQuery · WordPress · Figma · R · RStudio · ArcGIS StoryMaps 
+React · TypeScript · Java · C++ · JavaScript · Python · HTML · CSS · Bootstrap · Tailwind CSS · Flask · jQuery · WordPress · Figma · R · RStudio · Unity · ArcGIS StoryMaps 
 
 ## Professional Skills
 Leadership · Team Collaboration · Remote Team Collaboration · Problem Solving · Project Management · Agile Methodologies · Intercultural Competence · Creative Writing
