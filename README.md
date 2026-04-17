@@ -1,4 +1,4 @@
-## Hi, Saleh Safi 👋
+## Hi, I'm Saleh Safi 👋
 
 I’m a Computer Science student with a minor in Data Science, interested in building practical systems that bring together data, software, and real-world impact.
 
